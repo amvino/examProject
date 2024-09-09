@@ -11,7 +11,6 @@ crypto_cur = {
     "TON" : ["Toncoin", "the-open-network"], # ton
     "SOL" : ["Solana", "solana"] # sol
 }
-
 currencies = {
     "RUB": "Российский рубль",
     "USD": "Американский доллар",
